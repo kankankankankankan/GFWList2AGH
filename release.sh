@@ -314,8 +314,6 @@ function GenerateRules() {
                 fi
             fi
         ;;
-
-
         routeros)
             if [ "${generate_mode}" == "lite" ] && [ "${generate_file}" == "black" ]; then
                 function GenerateRulesHeader() {
@@ -332,9 +330,6 @@ EOF
                 done
             fi
         ;;
-
-
-
         unbound)
             domestic_dns=(
                 "223.5.5.5@853#dns.alidns.com"
