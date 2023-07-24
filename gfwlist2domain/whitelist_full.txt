@@ -5406,6 +5406,7 @@
 51miz.com
 51mkf.com
 51mld.cn
+51mnq.com
 51mo.com
 51mockup.com
 51modo.cc
@@ -5613,6 +5614,7 @@
 51xie.com
 51xingjy.com
 51xinyuan.com
+51xnj.com
 51xpj.com
 51xuanxiao.com
 51xue8.com
@@ -7051,6 +7053,7 @@
 6787.com
 67876.com
 67883.com
+678869.com
 67888.com
 6789.com
 6789.net
@@ -7156,7 +7159,6 @@
 6an8.com
 6api.net
 6apt.com
-6b-0k.tech
 6b3b.com
 6b8vqm.tdum.alibaba.com
 6bb09ff2424f199d57a678c5fab1cac5.dlied1.cdntips.net
@@ -7596,7 +7598,6 @@
 7717wan.com
 7723.com
 7724.com
-772457.com
 77248a.com
 7724yx.com
 7725.com
@@ -10528,6 +10529,7 @@ acgorg.com
 acgp.xyz
 acgpiping.net
 acgqd.com
+acgrenwu.com
 acgres.com
 acgrip.com
 acgshenshicha.cn
@@ -14406,6 +14408,7 @@ arpun.com
 arqvivayco.com
 arrow-tower.com
 arrowos.net
+arsqb.com
 art-ba-ba.com
 art-child.com
 art.theta.sogoucdn.com
@@ -16205,7 +16208,6 @@ bbmar.com
 bbmy.net
 bbobo.com
 bbonfire.com
-bbpopo.com
 bbqe.com
 bbqk.com
 bbqmw.net
@@ -17729,6 +17731,7 @@ bjjf.cc
 bjjfsd.com
 bjjihui.com
 bjjiubo.com
+bjjizhun.com
 bjjkglxh.org
 bjjnzf.com
 bjjqzyy.com
@@ -19087,6 +19090,7 @@ byted.org
 bytedance.com
 bytedance.net
 bytedanceapi.com
+bytedapm.com
 bytedns.com
 bytedns.net
 bytedns1.com
@@ -20410,7 +20414,6 @@ ccutchi.com
 ccutu.com
 ccv160.com
 ccv168.com
-ccv5.com
 ccview.net
 ccvnn.com
 ccwcw.com
@@ -26245,6 +26248,7 @@ csjcs.com
 csjplatform.com
 csjwang.com
 csjyzq.com
+cskaoyan.com
 cskefu.com
 cskule.com
 cskxjk.com
@@ -30294,7 +30298,6 @@ dodomh.com
 dodonew.com
 dodovip.com
 doergob.com
-doershow.com
 dofund.com
 dog.youdao.com
 dogecdn.com
@@ -30854,6 +30857,7 @@ dr.netease.im
 dr.qlogo.cn
 dr.soso.com
 dr009.com
+draftstatic.com
 dragate.dc.oppomobile.com
 drageasy.com
 dragon-guide.net
@@ -33259,6 +33263,7 @@ elong.net
 elongshine.com
 elongstatic.com
 elontest.com
+eloonggame.com
 elpcon.com
 elpwc.com
 els001.com
@@ -33620,6 +33625,7 @@ eqingdan.com
 eqiseo.com
 eqishare.com
 eqixiu.com
+eqiyingxiao.com
 eqkkjgyr.sched.s2-dk.tdnsv5.com
 eqmobi.com
 eqnvip.com
@@ -42121,6 +42127,7 @@ hftfund.com
 hftogo.com
 hfx.link
 hfx.net
+hfxst.com
 hfyestar.com
 hfyjgg.com
 hfykd.com
@@ -67878,6 +67885,7 @@ pjapi.jd.com.gslb.qianxun.com
 pjbest.com
 pjcn.org
 pjf.name
+pjgjg.com
 pjhome.net
 pjhubs.com
 pjialin.com
@@ -78964,7 +78972,6 @@ souqiu8.com
 souqupu.com
 source-fcdn-spe-push.s.bytefcdn.com
 source.orsoon.com
-source.tutorabc.com
 source.ubisoft.com.cn
 source.xuexi.cn
 source.youxiaoad.com
@@ -81386,6 +81393,7 @@ szlips.com
 szlong.weixin.qq.com
 szlos.com
 szlottery.org
+szltech.com
 szlvbarcode.com
 szlwtech.com
 szlzsd.com
@@ -86215,7 +86223,6 @@ ufc123.com
 ufc7.com
 ufcap.com
 ufenqi.com
-uff1.com
 ufhost.com
 ufhosted.com
 ufida-lcwy.com
@@ -86397,6 +86404,7 @@ uleapp.com
 ulecdn.com
 uleek.net
 uliang.vip
+uliangwang.com
 uliaobao.com
 ulikecam.com
 ulinix.com
@@ -89210,6 +89218,7 @@ waibao12333.com
 waibaodashi.com
 waibipos.net
 waibo.wang
+waibou.com
 waig8.com
 waigame.com
 waigf.com
@@ -89703,6 +89712,7 @@ warwickintl.com
 was-expo.com
 wasair.com
 wasanfeng.com
+wasd.plus
 wasfzx.com
 washpayer.com
 wasintek.com
@@ -94314,6 +94324,7 @@ wxapp-union.com
 wxapp.58.com
 wxapp.tc.qq.com
 wxappclub.com
+wxappvideo.com
 wxatech.com
 wxavu.com
 wxb.com
@@ -94479,6 +94490,7 @@ wywyx.com
 wyx365.com
 wyxbc.com
 wyxcb6.top
+wyxokokok.com
 wyydsb.xin
 wyykxyp.cn
 wyzc.com
@@ -94630,7 +94642,9 @@ x81zw.co
 x81zw.com
 x821.com
 x86android.com
+x8ds.com
 x8nlm0q2.dayugslb.com
+x8sb.com
 xa-online.com
 xa.58.com
 xa.anjuke.com
@@ -102649,6 +102663,7 @@ yhrfly.com
 yhshapp.com
 yhsms.com
 yhspy.com
+yht7.com
 yhtcd.com
 yhtools.cc
 yhtx.tv
@@ -106966,6 +106981,7 @@ zhiqiang.org
 zhiqiangcdn.com
 zhiqiapp.com
 zhiqihuo.com
+zhiqihuo.org
 zhiquansheng.com
 zhiquanxia.com
 zhiquapp.com
