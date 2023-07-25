@@ -798,9 +798,11 @@ akacrypto.net
 akadeem.net
 akademiye.org
 akadns.com
+akadns.net
 akadns6.net
 akaeai.com
 akafms.net
+akagtm.org
 akahost.net
 akaint.net
 akam.net
@@ -1727,6 +1729,7 @@ avinin.com
 avizoon.site
 avizoone.com
 avjb.com
+avjoy.me
 avlulu.cc
 avmo.pw
 avmoo.click
@@ -5057,6 +5060,7 @@ dlsite.jp
 dlsitenews.com
 dlsitestudio.com
 dlyoutube.com
+dm-event.net
 dm530.net
 dmarcnetworks.com
 dmc.nico
@@ -5117,6 +5121,7 @@ dnsrd.com
 dnssec.net
 dnsvisa.com
 dnvod.tv
+dnvodcdn.me
 do.co
 dobbyporn.com
 doceapower.com
@@ -9166,6 +9171,7 @@ iana.org
 iask.bz
 iask.ca
 iav19.com
+iavnight.com
 ibb.co
 ibeats-uk.com
 ibeatsbydre.cc
@@ -12018,6 +12024,7 @@ muscdn.com
 musclegirlflix.com
 muse.jhu.edu
 musescore.com
+mushroomtrack.com
 musicade.net
 musical.ly
 musicbay.net
@@ -13071,6 +13078,7 @@ oldje.com
 olehd.com
 olehdtv.com
 olelive.com
+olemovienews.com
 olevod.com
 olevodtv.com
 oli-school.com
@@ -15900,12 +15908,10 @@ skyking.com.tw
 skykiwi.com
 skynet.be
 skyoceanrescue.com
-skype-edf.akadns.net
 skype.com
 skype.net
 skypeassets.com
 skypeassets.net
-skypedata.akadns.net
 skyporn.online
 skysports.com
 skysportsonline.com
