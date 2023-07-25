@@ -80,7 +80,11 @@ function GenerateRules() {
             mkdir "../gfwlist2${software_name}"
         fi
         file_name="${generate_temp}list_${generate_mode}.${file_extension}"
+        file_name_ros_list="${generate_temp}list_${generate_mode}_v7.${file_extension}"
+        file_name_ros_regex="${generate_temp}regex_${generate_mode}_v7.${file_extension}"      
         file_path="../gfwlist2${software_name}/${file_name}"
+        file_path_ros_list="../gfwlist2${software_name}/${file_name_ros_list}"
+        file_path_ros_regex="../gfwlist2${software_name}/${file_name_ros_regex}"
     }
     function GenerateDefaultUpstream() {
         case ${software_name} in
@@ -326,7 +330,8 @@ EOF
                 FileName
                 GenerateRulesHeader
                 for lite_gfwlist_data_task in "${!lite_gfwlist_data[@]}"; do
-                    echo ":do { add forward-to=\$dnsserver type=FWD address-list=GFW-LIST match-subdomain=yes name=${lite_gfwlist_data[$lite_gfwlist_data_task]} } on-error={}" >> "${file_path}"
+                    echo ":do { add forward-to=\$dnsserver type=FWD address-list=GFW-LIST match-subdomain=yes name=${lite_gfwlist_data[$lite_gfwlist_data_task]} } on-error={}" >> "${file_path_ros_list}"
+                    echo ":do { add forward-to=\$dnsserver type=FWD address-list=GFW-REGEX match-subdomain=yes name=\".*${lite_gfwlist_data[$lite_gfwlist_data_task]}\\$\" } on-error={}" >> "${file_path_ros_regex}"
                 done
             fi
         ;;
