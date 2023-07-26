@@ -321,17 +321,18 @@ function GenerateRules() {
         routeros)
             if [ "${generate_mode}" == "lite" ] && [ "${generate_file}" == "black" ]; then
                 function GenerateRulesHeader() {
-                    cat <<EOF >> "${file_path}"
+                    cat <<EOF
 :global dnsserver
 /ip dns static remove [/ip dns static find forward-to=\$dnsserver]
 /ip dns static
 EOF
                 }
                 FileName
-                GenerateRulesHeader
+                GenerateRulesHeader | tee -a "${file_path_ros_list}" "${file_path_ros_regex}" > /dev/null
                 for lite_gfwlist_data_task in "${!lite_gfwlist_data[@]}"; do
                     echo ":do { add forward-to=\$dnsserver type=FWD address-list=GFW-LIST match-subdomain=yes name=${lite_gfwlist_data[$lite_gfwlist_data_task]} } on-error={}" >> "${file_path_ros_list}"
-                    echo ":do { add forward-to=\$dnsserver type=FWD address-list=GFW-REGEX match-subdomain=yes name=\".*${lite_gfwlist_data[$lite_gfwlist_data_task]}\\$\" } on-error={}" >> "${file_path_ros_regex}"
+                    echo ":do { add forward-to=\$dnsserver type=FWD address-list=GFW-REGEX name=\".*\${lite_gfwlist_data[$lite_gfwlist_data_task]}\\\\\\\$\" } on-error={}" >> "${file_path_ros_regex}"
+
                 done
             fi
         ;;
