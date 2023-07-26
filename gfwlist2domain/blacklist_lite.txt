@@ -955,6 +955,7 @@ amazon-jp-recruiting.com
 amazon-lantern.com
 amazon-launchpad.com
 amazon.com
+amazon.dev
 amazon.jobs
 amazon.red
 amazonalexavoxcon.com
@@ -3448,6 +3449,8 @@ cheapshoesvip.com
 cheapwireless04.com
 cheapwirelessbeats.com
 checkgfw.com
+chegg.com
+cheggcdn.com
 chemequations.com
 chemnetbase.com
 chengjuanseo.com
@@ -3720,6 +3723,7 @@ cloudflarestorage.com
 cloudflarestream.com
 cloudflaretest.com
 cloudflarewarp.com
+cloudfront.com
 cloudfront.net
 cloudfunctions.net
 cloudhealthtech.com
@@ -3737,6 +3741,7 @@ cloupia.com
 cloupia.net
 club.tw
 club1069.com
+clubhouse.com
 clubhouseapi.com
 clubseventeen.com
 clubsweethearts.com
@@ -5351,6 +5356,7 @@ entrustdatacard.com
 environment.google
 epac.to
 epicbrowser.com
+epicgames.dev
 epicreads.com
 epigeum.com
 epikporn.com
@@ -6293,6 +6299,7 @@ foofle.com
 foolsmountain.com
 fooooo.com
 footprint.net
+footprintdns.com
 footstockings.com
 footwiball.com
 forbes.com
@@ -9512,6 +9519,8 @@ kagyuoffice.org
 kairakudoujin.net
 kaiyuan.de
 kakao.com
+kakaocdn.net
+kakaocorp.com
 kaktuz.com
 kalachakralugano.org
 kali.org
@@ -10379,6 +10388,7 @@ matrix.org
 matsushimakaede.com
 matters.news
 matters.one
+matters.town
 mattwilcox.net
 mature-amateur-sex.com
 mature-porn-flix.com
@@ -13551,6 +13561,7 @@ qmov.net
 qmttqg3k.me
 qmzdd.com
 qombol.com
+qooqlevideo.com
 qoos.com
 qooza.hk
 qorno.com
@@ -13657,6 +13668,7 @@ rarbgprx.org
 rarbgto.org
 rarbgunblock.com
 rarbgunblock.org
+rarbgunblocked.org
 rarbgway.org
 raremovie.cc
 raremovie.net
