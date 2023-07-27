@@ -388,7 +388,6 @@
 0527zz.com
 052cb209c20ec0c2be2ea70e15fe56a5.safeframe.googlesyndication.com
 052yx.com
-0531-jinan.com
 0531.com
 053135.com
 0531jb.com
@@ -16146,7 +16145,6 @@ bb-edu.com
 bb-game.com
 bb-pco.com
 bb06.com
-bb179.com
 bb1818.le166.com
 bb2.ifeng.com
 bb263256578ff9085e7ffdc49055ccbc.dlied1.cdntips.net
@@ -23186,6 +23184,7 @@ cimamotor.com
 cimc.com
 cimen.club
 cimg.178.com
+cimictiles.com
 ciming-bj.com
 ciming-shop.com
 ciming.com
@@ -24568,7 +24567,6 @@ cnhvacrnet.com
 cnhwjt.com
 cnhzz.com
 cniao5.com
-cniao8.com
 cnibx.com
 cnicif.com
 cnidea.net
@@ -44197,7 +44195,6 @@ hui712.com
 hui800.com
 hui800.net
 huian.baixing.com
-huianchougy.com
 huians.com
 huibo.com
 huicaishui.net
@@ -55161,7 +55158,6 @@ ledianduo.com
 ledianyun.com
 lediaocha.com
 ledo.com
-ledole.com
 ledong.baixing.com
 ledongzhibo7777.com
 ledongzhibo888.com
@@ -55515,7 +55511,6 @@ lezai.com
 lezhi.com
 lezhi99.com
 lezhibo.com
-lezhieducation.com
 lezhiot.com
 lezhiyun.com
 lezhuan.com
@@ -55709,6 +55704,7 @@ liangyi360.com
 liangyunchang.com
 liangzhishu.com
 liangzl.com
+liangzuji.com
 lianhaikeji.com
 lianhanghao.com
 lianhecang.com
@@ -61549,6 +61545,7 @@ mookie1.cn
 moolsun.com
 moomoo.com
 moonbasa.com
+moonbitlang.com
 mooncell.wiki
 moonfly.net
 mooninbox.com
@@ -65731,7 +65728,6 @@ ottpauth.yst.aisee.tv
 ottshopping.net
 ottupdate.api.mgtv.com
 otype.com
-otzyx.com
 ou99.com
 ouapi.com
 oubk.com
@@ -69855,7 +69851,6 @@ qd.lianjia.com
 qd.myapp.com
 qd.pcsdownload.n.shifen.com
 qd256.com
-qd315.net
 qd8.com
 qdac.cc
 qdaeon.com
@@ -102989,6 +102984,7 @@ yingpaigame.com
 yingpingji.com
 yingshe.com
 yingsheng.com
+yingshevip.com
 yingshi.jiangzi.com
 yingshi.jiangzi.com.w.kunlunca.com
 yingshiborui.com
