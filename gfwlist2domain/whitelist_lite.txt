@@ -941,7 +941,6 @@
 110ask.com
 110hack.com
 110tm.com
-110zhibo.com
 111036.com
 111111111.com
 1111191.com
@@ -5828,6 +5827,7 @@
 66jiedai.com
 66law.cn
 66liu.com
+66mi.com
 66mobi.com
 66money.com
 66mz8.com
@@ -10425,6 +10425,7 @@ asussmart.com
 asussz-zp.com
 aswetalk.net
 asyzonline.com
+aszvip.com
 at-siac.com
 at0086.com
 at0086.net
@@ -13211,7 +13212,6 @@ boohee.com
 book118.com
 book1234.com
 book365.net
-bookabc.cc
 bookapka.com
 bookask.com
 bookbook.in
@@ -14437,7 +14437,6 @@ ccbwfs.com
 ccbxt.com
 cccaq.com
 cccbs.net
-ccccl.net
 cccdun.com
 cccf-cloud.com
 ccchz.com
@@ -16350,7 +16349,6 @@ chinatai.com
 chinatairun.com
 chinataiwan.org
 chinatalent.org
-chinatarena.com
 chinatat.com
 chinatechinsights.com
 chinatelecom-ec.com
@@ -17928,6 +17926,7 @@ cnprofit.com
 cnpubg.com
 cnpusi.com
 cnpv.com
+cnpx.net
 cnpython.com
 cnpythoner.com
 cnqc.com
@@ -20870,6 +20869,7 @@ dianzhenkeji.com
 dianzhentan.com
 dianzhi.com
 dianziaihaozhe.com
+dianzihetong.net
 dianzixuexi.com
 diaoben.com
 diaochapai.com
@@ -23473,6 +23473,7 @@ eng888.com
 engdvd.com
 engeniustec.com
 engkoo.com
+englishgoai.com
 englishtownpromotion.com
 engloncar.com
 engpx.com
@@ -26358,7 +26359,6 @@ gaoguangcn.com
 gaogulou.com
 gaohaipeng.com
 gaohangip.com
-gaohbook.net
 gaohr.com
 gaoimg.com
 gaoji.ren
@@ -27785,7 +27785,6 @@ grirem.com
 grizcom.com
 grksvub.cn
 grmxdy.com
-gro2004.com
 gro2005.com
 groad.net
 groovyfilmes.com
@@ -34998,6 +34997,7 @@ iwjw.com
 iwncomm.com
 iwopop.com
 iwordnet.com
+iwordshow.com
 iworm.net
 iwpai.com
 iwshang.com
@@ -35946,6 +35946,7 @@ jiashuangkuaizi.com
 jiashule.com
 jiasn.com
 jiaston.com
+jiasu.work
 jiasuba.com
 jiasubook.com
 jiasudu666.com
@@ -36541,7 +36542,6 @@ jiudianyongpin.com
 jiudianyuedu.com
 jiudingcapital.cn
 jiudingcapital.com
-jiudingdalv.com
 jiuduad.com
 jiufawang.com
 jiugang.com
@@ -38616,7 +38616,6 @@ kiaic.com
 kibey.com
 kibinggroup.com
 kibo.tech
-kickasssmp3.com
 kid17.com
 kidisland.cn
 kidscoding8.com
@@ -45241,6 +45240,7 @@ mupceet.com
 mupmstx.com
 murdermysterypa.com
 murl.tv
+murphysec.com
 muryi.net
 muselab-tech.com
 mushafa.net
@@ -50268,6 +50268,7 @@ qilindao.com
 qiling.org
 qilingames.com
 qilinxuan.net
+qilitech.ltd
 qilong.com
 qilongtan.com
 qiluhospital.com
@@ -50560,7 +50561,6 @@ qiwendi.com
 qiwenhui.com
 qiwo.cc
 qixia.ltd
-qixiandoc.com
 qixifuren.com
 qixin.com
 qixin007.com
@@ -56513,7 +56513,6 @@ stovol.club
 stoyard.com
 str-mo.com
 straitchain.com
-strconv.com
 strcpy.me
 streamaxtech.com
 streamcomputing.com
@@ -57068,7 +57067,6 @@ sxjagc.com
 sxjh88.com
 sxjhzsgc.com
 sxjlzhifu.com
-sxjtzj.com
 sxjzxww.com
 sxkid.com
 sxkzxt.com
@@ -62153,6 +62151,7 @@ vortexfun.com
 vote8.cc
 vote8.com
 vov0.com
+voycn.com
 voyooo.com
 vp3u.com
 vpadn.com
@@ -63246,7 +63245,6 @@ weihai.tv
 weihai6.com
 weihaicollege.com
 weihaipoly.com
-weihanli.xyz
 weihaobang.com
 weihaoyi.com
 weiheshidai.com
@@ -66495,6 +66493,7 @@ xiaolianhb.com
 xiaoliebian.com
 xiaoliketang.com
 xiaolin.in
+xiaolincoding.com
 xiaolinsi.com
 xiaolinwl.com
 xiaolinyuan.com
@@ -71974,7 +71973,6 @@ yxin18.com
 yxinbao.com
 yxit.net
 yxixy.com
-yxjcy.xyz
 yxjedu02.com
 yxjia.com
 yxke12.com

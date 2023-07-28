@@ -1135,7 +1135,6 @@
 110ask.com
 110hack.com
 110tm.com
-110zhibo.com
 111036.com
 111111111.com
 1111191.com
@@ -6995,6 +6994,7 @@
 66jjzw.tdum.alibaba.com
 66law.cn
 66liu.com
+66mi.com
 66mobi.com
 66money.com
 66mz8.com
@@ -14680,6 +14680,7 @@ asussz-zp.com
 aswetalk.net
 async.qun.qq.com
 asyzonline.com
+aszvip.com
 at-siac.com
 at.alicdn.com
 at.alicdn.com.danuoyi.alicdn.com
@@ -18341,7 +18342,6 @@ book.sina.com.cn
 book118.com
 book1234.com
 book365.net
-bookabc.cc
 bookapka.com
 bookask.com
 bookbk.img.ireader.com
@@ -20165,7 +20165,6 @@ ccc.x.jd.com
 ccc.xx578.com
 cccaq.com
 cccbs.net
-ccccl.net
 cccdun.com
 cccf-cloud.com
 ccchz.com
@@ -22572,7 +22571,6 @@ chinatai.com
 chinatairun.com
 chinataiwan.org
 chinatalent.org
-chinatarena.com
 chinatat.com
 chinatechinsights.com
 chinatelecom-ec.com
@@ -24735,6 +24733,7 @@ cnprofit.com
 cnpubg.com
 cnpusi.com
 cnpv.com
+cnpx.net
 cnpython.com
 cnpythoner.com
 cnqc.com
@@ -29257,6 +29256,7 @@ dianzhenkeji.com
 dianzhentan.com
 dianzhi.com
 dianziaihaozhe.com
+dianzihetong.net
 dianzixuexi.com
 diaoben.com
 diaochapai.com
@@ -33433,6 +33433,7 @@ english.cmbchina.com
 english.gov.cn
 english.sina.com
 english.sogou.com
+englishgoai.com
 englishtownpromotion.com
 engloncar.com
 engpx.com
@@ -37260,7 +37261,6 @@ gaoguangcn.com
 gaogulou.com
 gaohaipeng.com
 gaohangip.com
-gaohbook.net
 gaohr.com
 gaoimg.com
 gaoji.ren
@@ -39032,7 +39032,6 @@ grirem.com
 grizcom.com
 grksvub.cn
 grmxdy.com
-gro2004.com
 gro2005.com
 groad.net
 grocery-channel-api.meituan.com
@@ -48865,6 +48864,7 @@ iwjw.com
 iwncomm.com
 iwopop.com
 iwordnet.com
+iwordshow.com
 iworm.net
 iwpai.com
 iwshang.com
@@ -49929,6 +49929,7 @@ jiasn.com
 jiaston.com
 jiasu.huanleap.com
 jiasu.qq.com
+jiasu.work
 jiasuba.com
 jiasubook.com
 jiasudu666.com
@@ -50557,7 +50558,6 @@ jiudianyongpin.com
 jiudianyuedu.com
 jiudingcapital.cn
 jiudingcapital.com
-jiudingdalv.com
 jiuduad.com
 jiufawang.com
 jiugang.com
@@ -53119,7 +53119,6 @@ kiaic.com
 kibey.com
 kibinggroup.com
 kibo.tech
-kickasssmp3.com
 kid.cdn.ptmi.gitv.tv
 kid.xl.ptxl.gitv.tv
 kid17.com
@@ -62160,6 +62159,7 @@ mupceet.com
 mupmstx.com
 murdermysterypa.com
 murl.tv
+murphysec.com
 muryi.net
 muselab-tech.com
 muses-ugc.iqiyi.com
@@ -70545,6 +70545,7 @@ qilindao.com
 qiling.org
 qilingames.com
 qilinxuan.net
+qilitech.ltd
 qilong.com
 qilongtan.com
 qiluhospital.com
@@ -70861,7 +70862,6 @@ qiwenhui.com
 qiwo.cc
 qixia.ltd
 qixian.baixing.com
-qixiandoc.com
 qixiaxian.baixing.com
 qixifuren.com
 qixin.com
@@ -80225,7 +80225,6 @@ str-mo.com
 straitchain.com
 strategy-movie.maoyan.com
 strategy.beacon.qq.com
-strconv.com
 strcpy.me
 stream.shuzilm.cn
 stream.snssdk.com
@@ -80933,7 +80932,6 @@ sxjagc.com
 sxjh88.com
 sxjhzsgc.com
 sxjlzhifu.com
-sxjtzj.com
 sxjzxww.com
 sxkid.com
 sxkzxt.com
@@ -88750,6 +88748,7 @@ vote8.cc
 vote8.com
 voucher-drcn.himovie.hicloud.com
 vov0.com
+voycn.com
 voyooo.com
 vp-sh-real.oss-cn-hangzhou.aliyuncs.com
 vp.cache.qcloudcdn.com
@@ -90241,7 +90240,6 @@ weihai.tv
 weihai6.com
 weihaicollege.com
 weihaipoly.com
-weihanli.xyz
 weihaobang.com
 weihaoyi.com
 weiheshidai.com
@@ -95541,6 +95539,7 @@ xiaolianhb.com
 xiaoliebian.com
 xiaoliketang.com
 xiaolin.in
+xiaolincoding.com
 xiaoling.ixiunv.com
 xiaolinsi.com
 xiaolinwl.com
@@ -105333,7 +105332,6 @@ yxin18.com
 yxinbao.com
 yxit.net
 yxixy.com
-yxjcy.xyz
 yxjedu02.com
 yxjia.com
 yxke12.com
