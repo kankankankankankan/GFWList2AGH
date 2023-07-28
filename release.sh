@@ -81,7 +81,7 @@ function GenerateRules() {
         fi
         file_name="${generate_temp}list_${generate_mode}.${file_extension}"
         file_name_ros_list="${generate_temp}list_${generate_mode}_v7.${file_extension}"
-        file_name_ros_regex="${generate_temp}regex_${generate_mode}_v7.${file_extension}"      
+        file_name_ros_regex="${generate_temp}list_${generate_mode}_regex_v7.${file_extension}"
         file_path="../gfwlist2${software_name}/${file_name}"
         file_path_ros_list="../gfwlist2${software_name}/${file_name_ros_list}"
         file_path_ros_regex="../gfwlist2${software_name}/${file_name_ros_regex}"
