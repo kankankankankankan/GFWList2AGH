@@ -6,7 +6,6 @@ on:
     push:
         branches:
           - main
-          - source
           
     schedule:
         - cron: "2 0/24 * * *"
