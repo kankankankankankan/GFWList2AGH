@@ -318,6 +318,7 @@ function GenerateRules() {
                 fi
             fi
         ;;
+        
         routeros)
             if [ "${generate_mode}" == "lite" ] && [ "${generate_file}" == "black" ]; then
                 function GenerateRulesHeader() {
@@ -329,12 +330,25 @@ EOF
                 }
                 FileName
                 GenerateRulesHeader | tee -a "${file_path_ros_list}" "${file_path_ros_regex}" > /dev/null
+                # 创建临时变量，用于保存生成的规则内容
+                rules_list=""
+                rules_regex=""
                 for lite_gfwlist_data_task in "${!lite_gfwlist_data[@]}"; do
-                    echo ":do { add forward-to=\$dnsserver type=FWD address-list=GFW-LIST match-subdomain=yes name=${lite_gfwlist_data[$lite_gfwlist_data_task]} } on-error={}" >> "${file_path_ros_list}"
-                    echo ":do { add forward-to=\$dnsserver type=FWD address-list=GFW-REGEX name=\".*$(echo "${lite_gfwlist_data[$lite_gfwlist_data_task]}" | sed 's/\./\\\\\\./g')\$\" } on-error={}" >> "${file_path_ros_regex}"
+                    # 生成 GFW-LIST 规则内容
+                    gfwlist_rule=":do { add forward-to=\$dnsserver type=FWD address-list=GFW-LIST match-subdomain=yes name=${lite_gfwlist_data[$lite_gfwlist_data_task]} } on-error={}"
+                    rules_list+="$gfwlist_rule\n"
+            
+                    # 生成 GFW-REGEX 规则内容
+                    name=".*${lite_gfwlist_data[$lite_gfwlist_data_task]//./\\\\\\.}\\\\\$"
+                    gfw_regex_rule=":do { add forward-to=\$dnsserver type=FWD address-list=GFW-REGEX regexp=\"$name\" } on-error={}"
+                    rules_regex+="$gfw_regex_rule\n"
                 done
+                # 将规则内容写入文件
+                echo -e "$rules_list" >> "${file_path_ros_list}"
+                echo -e "$rules_regex" >> "${file_path_ros_regex}"
             fi
         ;;
+        
         unbound)
             domestic_dns=(
                 "223.5.5.5@853#dns.alidns.com"
