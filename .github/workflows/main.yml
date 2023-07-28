@@ -6,7 +6,6 @@ on:
     push:
         branches:
           - main
-          
     schedule:
         - cron: "2 0/24 * * *"
 jobs:
