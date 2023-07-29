@@ -1935,6 +1935,7 @@
 19airen.com
 19bizhi.com
 19call.com
+19call.net
 19lou.com
 19mi.net
 19mini.com
@@ -8110,7 +8111,6 @@ aau8.xyz
 aau9.xyz
 aavisa.com
 aaxpro.com
-aayis.com
 aaz1.xyz
 aazcio.cn
 ab126.com
@@ -12292,7 +12292,6 @@ bilnn.com
 bim-times.com
 bimfmchina.com
 bimilou.com
-bimo.cc
 binaryai.net
 binaryai.tech
 binbinyl.com
@@ -21541,6 +21540,7 @@ dole.club
 dolfincdnx.com
 dolfincdnx.net
 dolfindns.net
+dolike.com
 doll-leaves.com
 doll-zone.com
 dollun.com
@@ -27348,7 +27348,6 @@ gokols.com
 gokuai.com
 golangapi.com
 golanger.com
-golangtc.com
 golangweb.com
 golaravel.com
 gold-v.com
@@ -27668,7 +27667,6 @@ gpai.net
 gpautobid.com
 gpbctv.com
 gpbeta.com
-gpc7.com
 gpcqjy.com
 gpd.hk
 gpdi.com
@@ -37936,7 +37934,6 @@ jzkuaiji.com
 jzmob.com
 jzmsmj.com
 jzmt.net
-jzn.xyz
 jznqp.net
 jznyjt.com
 jzongguan.com
@@ -38723,7 +38720,6 @@ kisdee.com
 kiss688.com
 kisskisso.com
 kissyui.com
-kisvz.com
 kiswo.com
 kit-lee.me
 kitstown.com
@@ -40839,6 +40835,7 @@ libaoyun.com
 libii.cn
 libinx.com
 libisky.com
+liblibai.com
 libomarathon.com
 librarymanagement.cn
 libreofficechina.org
@@ -41075,6 +41072,7 @@ lingkou.com
 lingla.com
 linglingccc.xyz
 linglingkaimen.com
+linglong.dev
 linglongart.com
 linglonglife.com
 linglongtech.com
@@ -41508,7 +41506,6 @@ liyp.cc
 liyu8.com
 liyuanheng.com
 liyuanhospital.com
-liyue.name
 liyujn.com
 lizaike.com
 lizhaoblog.com
@@ -53456,7 +53453,6 @@ sensorsdatavip.com
 sensorshome.com
 senszx.com
 sentaijs.com
-sentsin.com
 sentuxueyuan.com
 senyou.com
 senyuanhi.com
@@ -56088,6 +56084,7 @@ spacious.hk
 spanishknow.com
 sparenode.com
 spark-app.store
+spark-page.com
 spark4y.com
 sparkandshine.net
 sparkgis.com
@@ -56119,6 +56116,7 @@ spdl.com
 spdydns.com
 spearpointing.com
 specialcdnstatus.com
+spectreax.site
 speed-dns.cc
 speedcdns.com
 speednt.com
@@ -65813,7 +65811,6 @@ xbzlapp.com
 xc123.net
 xc18.cc
 xc2500.com
-xc829.com
 xc940.com
 xcabc.com
 xcao.win
@@ -67421,7 +67418,6 @@ xixipan.com
 xixiqipai.com
 xixiqiu.com
 xixisys.com
-xixiwg.com
 xixiyishu.com
 xiyacs.com
 xiyamaoyi.com
@@ -70099,7 +70095,6 @@ yixinfx.com
 yixinli.xin
 yixintui.com
 yixinu.com
-yixinxin.com
 yixiubx.com
 yixiuxueyuan.com
 yixuan.net
