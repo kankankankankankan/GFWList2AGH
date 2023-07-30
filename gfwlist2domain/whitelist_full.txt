@@ -7562,7 +7562,6 @@
 765q.com
 766.com
 7663.com
-76676.com
 7668924.com
 76698fcd2ed829d00e0f936751cecdaa.safeframe.googlesyndication.com
 766z.com
@@ -16716,6 +16715,7 @@ beiliangshizi.com
 beimai.com
 beimeigoufang.com
 beimeihongfeng.com
+beimiyouchuan.com
 beimu.com
 beingmate.com
 beipy.com
@@ -50292,6 +50292,7 @@ jingtanggame.com
 jingtuitui.com
 jingtum.com
 jingua168.com
+jinguanauto.com
 jingujie.com
 jingutrust.com
 jingwacenter.com
@@ -54762,7 +54763,6 @@ laomaotao.com
 laomaotao.net
 laomaotao.org
 laomaotaopan.com
-laomudong.cc
 laonanren.cc
 laoniushuju.com
 laoqiange.club
@@ -62153,7 +62153,6 @@ munion.mediav.com
 muomou.com
 mupao.com
 mupceet.com
-mupmstx.com
 murdermysterypa.com
 murl.tv
 murphysec.com
@@ -72697,7 +72696,6 @@ raymx-micro.com
 rayoptek.com
 rayps.com
 rayrjx.com
-raysd.com
 raysilicon.com
 raythonsoft.com
 raytoon.net
@@ -74064,6 +74062,7 @@ rv2go.com
 rvcore.com
 rvest.gallerycdn.azure.cn
 rvfdp.com
+rvkol.com
 rvmcu.com
 rwnbfi0d.sched.s2-dk.tdnsv5.com
 rwpt.top
@@ -79154,7 +79153,6 @@ sports.sina.com.cn
 sports.sohu.com
 sports.youku.com
 sports.youth.cn
-sports8.cc
 sports8.net
 sports998.com
 sportsdt.com
@@ -94592,11 +94590,11 @@ x2v6.tcdn.qq.com
 x315.com
 x3322.net
 x3366.com
+x33699.com
 x3china.com
 x3cn.com
 x431.com
 x5dj.com
-x5yue.com
 x64go.com
 x64pro.com
 x6d.com
