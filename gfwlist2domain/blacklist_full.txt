@@ -744,7 +744,6 @@ ahxxx.club
 ai-kan.net
 ai-wen.net
 ai.binwang.me
-ai.com
 ai.google
 aiaa.org
 aibaobei.me
@@ -18507,6 +18506,7 @@ vxnbbrs.xyz
 vxxsred.xyz
 vyprvpn.com
 vzw.com
+w-mt.co
 w.idaiwan.com
 w.org
 w.wiki
