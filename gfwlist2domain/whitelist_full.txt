@@ -4598,6 +4598,7 @@
 40773d00ef2585ba8ed519b500a43862.dlied1.cdntips.net
 407wan.com
 4080517.com
+4080so.com
 409874.com
 40fenzhong.com
 40manhua.com
@@ -5925,6 +5926,7 @@
 52tc.co
 52tc.info
 52tech.tech
+52tesla.com
 52tgfc.com
 52tian.net
 52tiny.com
@@ -6348,7 +6350,6 @@
 58xuexi.com
 58yiji.com
 58youtui.com
-58yuanlin.com
 58yuesao.com
 58zcw.com
 58zhuiju.com
@@ -13202,7 +13203,6 @@ aoliday.com
 aoliongame.com
 aolylcd.com
 aomeng.net
-aomygod.com
 aomygodstatic.com
 aonaotu.com
 aone.alibaba-inc.com
@@ -14131,6 +14131,7 @@ applog.ucdns.uc.cn
 applog.yiche.com
 applogapi.autohome.com.cn
 applogios.uc.cn
+applogo.net
 apply.mcard.boc.cn
 applycardbos.allinfinance.com
 applysquare.com
@@ -26271,6 +26272,7 @@ csstools.chinaz.com
 cssxt.com
 cssyq.com
 cssyzxx.com
+csszone.net
 cstat.apple.com
 cstat.cdn-apple.com
 cstatic.msxf.com
@@ -27100,6 +27102,7 @@ d3g.qq.com
 d3g.qq.com.legodlied1-dk.sched.dcloudstc.com
 d3g.qq.com.tc.qq.com
 d3g.qq.com.yyb-dk.sched.dcloudstc.com
+d3games.com
 d3iz9md.com
 d3o7k1xt.v1d.szbdyd.com
 d3o7ko9r.v1d.szbdyd.com
@@ -37697,7 +37700,6 @@ geneskies.com
 genetalks.com
 geneworldcn.com
 gengchuangz.com
-genghuiok.com
 gengnie.com
 gengsang.me
 gengwen.net
@@ -38607,6 +38609,7 @@ gongyoumishu.com
 gongzhongpingtai.cc
 gongzicp.com
 gongzifu.com
+gongzuobaogao.xyz
 gongzuoshouji.net
 gongzuoyun.org
 gonsun.com
@@ -47643,6 +47646,7 @@ inkeygo.com
 inkonote.com
 inktok.com
 inkuai.com
+inkwai.com
 inlaylink.com
 inline.nn.com
 inlishui.com
@@ -60746,6 +60750,7 @@ mishop.pandora.xiaomi.com
 mishuhome.com
 misiiyoo.com
 miskcoo.com
+miso-lab.com
 mispos.cc
 missevan.com
 missfresh-asschool-develop-common.ufile.ucloud.com.cn
@@ -64272,7 +64277,6 @@ ntqcct.com
 ntqfdq.com
 ntrcb.com
 nttui.com
-ntuiw.cc
 ntuiw.com
 ntvalumium.com
 ntwikis.com
@@ -86248,6 +86252,7 @@ uisnetwork.com
 uisrc.com
 uissm.com
 uiste.com
+uitool.net
 uiu.cc
 uiusc.com
 uiwed.com
@@ -89433,6 +89438,7 @@ wanlaiwang.com
 wanlan.vip
 wanli.com
 wanlianzhijia.com
+wanlicd.com
 wanlitong.com
 wanliyouxuan.com
 wanmei.com
@@ -90621,6 +90627,7 @@ west.xyz
 west263.com
 west95582.com
 west999.com
+westbund.art
 westbund.com
 westcits.com
 weste.net
@@ -94439,6 +94446,7 @@ wzpcw.com
 wzplc.com
 wzpo.net
 wzpod.com
+wzrdwl2.com
 wzright.com
 wzry.broker.tplay.qq.com
 wzsee.com
@@ -95593,6 +95601,7 @@ xiaoso.net
 xiaoss.net
 xiaot.com
 xiaota.com
+xiaote.com
 xiaote.net
 xiaotee.com
 xiaoten.com
@@ -96592,6 +96601,7 @@ xl5dd.com
 xl5du.com
 xl5dw.com
 xl699.com
+xlaaa.com
 xlab.baidu.com
 xladapi.izuiyou.com
 xlbrowsersdk.rcv.sandai.net
@@ -96607,6 +96617,7 @@ xlgogo.com
 xlgtx.com
 xlgxapp.com
 xlhb.com
+xlhk.net
 xlhs.com
 xlhtcucc.com
 xlhwzx.cn
@@ -107329,6 +107340,7 @@ zhufangdianping.com
 zhufengpeixun.com
 zhufenqi.com
 zhuge.com
+zhuge888.com
 zhugeapi.com
 zhugeapi.net
 zhugefang.com
