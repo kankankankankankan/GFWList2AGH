@@ -6488,6 +6488,7 @@
 5fwan.com
 5fwuhk.tdum.alibaba.com
 5g.sina.com.cn
+5g5gyy.com
 5gb1t7lc.sched.sma.tdnsv5.com
 5gcg.com
 5givji62.sched.vp.tdnsv5.com
@@ -8772,7 +8773,6 @@
 910015779.s1txipv6.cdntip.com
 910015779.sched.skalego-dk.tdnsv5.com
 910app.com
-910fd.com
 910play.com
 910weixin.com
 91160.com
@@ -12490,6 +12490,7 @@ aliyunddos1004.com
 aliyunddos1005.com
 aliyunddos1006.com
 aliyunddos1007.com
+aliyunddos1008.com
 aliyunddos1009.com
 aliyunddos1010.com
 aliyunddos1011.com
@@ -14231,7 +14232,6 @@ aps.aliyun.com
 aps.amap.com
 apsgo.com
 apsgo.com.w.cdngslb.com
-apt.so
 aptchina.com
 aptchip.com
 aptenon.com
@@ -21367,6 +21367,7 @@ chaima.com
 chaimage.com
 chain-store.net
 chaincar.com
+chaincatcher.com
 chaindd.com
 chainknow.com
 chainnode.com
@@ -33696,6 +33697,7 @@ eslosity.com
 esmapi.dangbei.net
 esmartwave.com
 esmod-beijing.com
+esmplus.com
 esnai.com
 esnai.net
 esoboy.com
@@ -36054,6 +36056,7 @@ fpbb.aizhan.com
 fpbbdx1.bmcx.com
 fpbbdx2.bmcx.com
 fpbcode.onlinedown.net
+fpdclub.net
 fpdisplay.com
 fpga-china.com
 fpgabbs.com
@@ -38736,6 +38739,7 @@ gougoujp.com
 gougoumh.com
 gougousc.com
 gouhai.com
+gouhao.com
 gouhaowang.com
 gouhuasuan.shop
 goukuai.com
@@ -42684,7 +42688,6 @@ hmsxw.com
 hmszkj.com
 hmting.com
 hmtoday.com
-hmtv.me
 hmxw.com
 hmyz.com
 hmz.com
@@ -42768,6 +42771,7 @@ hnggzy.com
 hngh.org
 hngican.com
 hngoldcorp.com
+hngqjc.com
 hngrafton.cn
 hngshk.51sole.com
 hngtrust.com
@@ -51688,6 +51692,7 @@ jumeiglobal.com
 jumeinet.com
 jumengco.com
 jumengren.com
+jumengtbs.net
 jumi-cdn.com
 jumi.com
 jumi18.com
@@ -73549,6 +73554,7 @@ roosur.com
 root-servers.world
 root1111.com
 rootcloud.com
+rootdata.com
 rootguide.org
 rootk.com
 rootop.org
@@ -74853,6 +74859,7 @@ scdnl9cm.com
 scdnmogt.com
 scdnn4t9.com
 scdno5zl.com
+scdnrlm1.com
 scdnrvy1.com
 scdnucc5.com
 scdnurea.com
@@ -76969,7 +76976,6 @@ shoubaodan.com
 shouce.ren
 shouce365.com
 shouchaobao.com
-shouchaobao.vip
 shoucheng123.com
 shoucw.com
 shoudayy.net
@@ -94926,6 +94932,7 @@ xg.tjwmtrw.cn
 xg.whsbpw.cn
 xgamevip.com
 xgantt.net
+xgate.com
 xgbb.sspu.edu.cn
 xgcs618.com
 xgcsczyc.com
@@ -101753,6 +101760,7 @@ yanghuaer.mobi
 yanghui.com
 yangjiang.baixing.com
 yangjianhs.com
+yangjiaofood.com
 yangjie.li
 yangjinyou.com
 yangjisen.com
@@ -104707,7 +104715,6 @@ yundasys.com
 yundianjia.com
 yundianseo.com
 yundiantech.com
-yundns.vip
 yundong.cdn-go.cn
 yundong.qq.com
 yundongfang.com
@@ -106841,6 +106848,7 @@ zhiwo.com
 zhiwu55.com
 zhiwushuo.com
 zhiwuwang.com
+zhixi.com
 zhixiaodashi.com
 zhixiaohuoke.com
 zhixiaoren.com
