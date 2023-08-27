@@ -5604,7 +5604,6 @@
 51y5.com
 51y5.net
 51yabei.com
-51yala.com
 51yam.com
 51yangsheng.com
 51yanwang.com
@@ -16707,7 +16706,6 @@ beiyxiu.com
 beiyz.com
 beizengtech.com
 beizi.biz
-beizigen.com
 beiziman.com
 beizkw.cn
 beiztw.cn
@@ -17279,7 +17277,6 @@ bingqipu.net
 bingsin.com
 bingsns.com
 bingtuannet.com
-bingwang.cc
 bingyan.net
 bingyongjin.vip
 binkery.com
@@ -19206,6 +19203,7 @@ c.kuwo.cn
 c.kyvhxik.cn
 c.l.qq.com
 c.l570mb.cn
+c.la
 c.leankun.com
 c.lenovo.com.cn
 c.lenovo.com.cn.wswebcdn.com
@@ -23026,7 +23024,6 @@ chxent.com
 chxyq.com
 chyangwa.net
 chyb.bjmu.edu.cn
-chydafuse.com
 chyela.tmall.com
 chyfh.com
 chyoukj.com
@@ -27731,6 +27728,7 @@ dapiniu.com
 dapmax.com
 dappdiscover.com
 dapu.com
+dapustor.com
 daqi.com
 daqianduan.com
 daqiangolf.com
@@ -31479,6 +31477,7 @@ duozhi.com
 duozhishidai.com
 duozhuayu.com
 duozhuayu.net
+duoziwang.com
 dup.baidustatic.com
 dup2.org
 dupan.ink
@@ -51777,6 +51776,7 @@ jushtong.com
 jushuo.com
 jusrlkubhjnr.com
 jussevent.com
+jusssportsvenue.com
 jusstickets.com
 jussyun.com
 just-glendale.com
@@ -63743,7 +63743,6 @@ njzhongyuan.com
 njzhzx.net
 njzq.com.cn
 njzztyl.com
-nkjwtd.com
 nkscdn.com
 nkst5h3v.v1d.szbdyd.com
 nkst5hol.v1d.szbdyd.com
@@ -64481,7 +64480,6 @@ obowin.com
 obs.cn-north-2.myhwclouds.com
 obs.dfvcg0.cn-north-1.myhuaweicloud.com
 obsapp.net
-obty30.com
 obus-cn.dc.heytapmobi.com
 obx.tt3edd.com
 obyee.com
@@ -73558,6 +73556,7 @@ rp.crasheye.cn
 rp.hpplay.cn
 rp.m.hub.sandai.net
 rp.m.v6.shub.sandai.net
+rpa-cn.com
 rpe.xdplt.com
 rpfieldcdn.com
 rpg99.com
@@ -78125,6 +78124,7 @@ sma.hy.qcloudcdn.qq.com
 smabye.com
 small.static.cdnudns.com
 smallapp.club
+smallfighter.com
 smalljun.com
 smallk.net
 smallpdfer.com
@@ -78401,6 +78401,7 @@ so.sina.cn
 so.toutiao.com
 so.youku.com
 so147.com
+so666gslb.com
 so8848.com
 soa-dd.jd.com
 soa-dd.jd.com.gslb.qianxun.com
@@ -84519,6 +84520,7 @@ tripdv.com
 triphr.com
 triple7photography.com
 triplexservice.com
+tripodeck.com
 tripsanxia.net
 tripurx.com
 tripvivid.com
@@ -89207,7 +89209,6 @@ wangmou.net
 wangoudianzi.com
 wangpan.lcs.baidu.com
 wangpan.lcs.n.shifen.com
-wangpengcufe.com
 wangpiao.com
 wangpiao.net
 wangpu.net
@@ -94318,7 +94319,6 @@ wzjxyq.com
 wzksw.com
 wzktys.com
 wzl04.xyz
-wzleituo.com
 wzlt8.com
 wzlysz.com
 wzms.com
@@ -94947,7 +94947,6 @@ xhhy.online
 xhidc.com
 xhj.com
 xhjingling.com
-xhjxmx.com
 xhkt.tv
 xhlaowu.com
 xhlgfsc.com
@@ -107693,7 +107692,6 @@ zjimpact.com
 zjipc.com
 zjj17u.com
 zjj21.com
-zjj588.com
 zjjcts.com
 zjjd.org
 zjjdamuzhi.com
@@ -108502,7 +108500,6 @@ zuik.ren
 zuikc.com
 zuiku.com
 zuikzy.com
-zuilingxian.com
 zuimeia.com
 zuimeiqidai.com
 zuimeitianqi.com
