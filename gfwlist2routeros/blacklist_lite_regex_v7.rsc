@@ -328,6 +328,7 @@
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*6arabs\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*6asianporn\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*6do\\.news\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*6do\\.world\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*6e8xr2gk\\.me\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*6japaneseporn\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*6kea\\.com\$" } on-error={}
@@ -1434,6 +1435,7 @@
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*asianxxxvideos\\.cc\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*asiaone\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*asiatgp\\.com\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*asiatimes\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*asiatoday\\.us\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*askfacebook\\.net\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*askfacebook\\.org\$" } on-error={}
@@ -15059,6 +15061,7 @@
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*stackage\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*stackapps\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*stackauth\\.com\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*stackcommerce\\.net\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*stackexchange\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*stackmod\\.blog\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*stackoverflow\\.blog\$" } on-error={}
@@ -15070,6 +15073,7 @@
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*stackpath\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*stackpath\\.dev\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*stacksnippets\\.net\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*stacksocial\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*stacyvandenbergboobs\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*stadia\\.dev\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*stage64\\.hk\$" } on-error={}
@@ -15634,6 +15638,7 @@
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*thecandidbay\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*thechinabeat\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*thechinacollection\\.org\$" } on-error={}
+:do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*thechinaproject\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*thechinastory\\.org\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*theclasshroom\\.com\$" } on-error={}
 :do { add forward-to=$dnsserver type=FWD address-list=GFW-REGEX regexp=".*thecleversense\\.com\$" } on-error={}
