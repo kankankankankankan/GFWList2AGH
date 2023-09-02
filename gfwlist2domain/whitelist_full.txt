@@ -9995,6 +9995,7 @@ a5.net
 a5032fb8c79415d4.qaxcloudwaf.com
 a565fba3c92c8d295113dc38ac7e9dac.dlied1.cdntips.net
 a57cvn.tdum.alibaba.com
+a5b.cc
 a5ea4f602e42b01a.jomoxc.com
 a5f69f96a90aed270c560e827d1b8e48.dlied1.cdntips.net
 a5idc.net
@@ -13013,6 +13014,7 @@ antcut.com
 antdv.com
 antebao.com
 antebo.com
+antfans.com
 antfin-inc.com
 antfin.com
 antfortune.com
@@ -14947,6 +14949,7 @@ avtechcn.com
 avtt830.com
 avu8qy84.sched.sma-dk.tdnsv5.com
 avvr.club
+avyeld.com
 aw-ol.com
 aw.cc
 aw.kejet.net
@@ -15847,6 +15850,7 @@ banxiayue.com
 banxuewx.com
 banyou.la
 banyuetan.org
+banyuetanapp.com
 banyuetanxcx.com
 banyunjuhe.com
 banzdw.cn
@@ -22034,6 +22038,7 @@ china356.com
 china3gpp.com
 china4a.org
 china50plus.com
+china51766.com
 china5e.com
 china60.com
 china618.com
@@ -24608,6 +24613,7 @@ cnnerv.com
 cnnetsec.com
 cnnewss.com
 cnnfootballclub.com
+cnnic.pub
 cnnmol.com
 cnnorip.org
 cnnot.com
@@ -25479,6 +25485,7 @@ correctxt.baidu.com
 cos-show.com
 cos4reviewpic-1253177085.picca.myqcloud.com
 cosbot.cn
+cosbuluo.com
 cosco.com
 coscon.com
 coscoshipping.com
@@ -25846,7 +25853,6 @@ cqyc.net
 cqyestar.com
 cqyeze.com
 cqyfgs.com
-cqyihuan.com
 cqyingang.com
 cqyouloft.com
 cqypkj.byf.com
@@ -31999,6 +32005,7 @@ dzyysb.com
 dzz.cc
 dzzgsw.com
 dzzoffice.com
+dzzui.com
 e-10031.com
 e-189.21cn.com
 e-3lue.com
@@ -34541,7 +34548,6 @@ fans8.com
 fansgu.com
 fanshicekong.com
 fanshui.net
-fanshuxiaobao.com
 fanshuxiaozu.com
 fansiji.com
 fansimg.com
@@ -44422,6 +44428,7 @@ hupsun.com
 hupu.com
 hupu.tv
 hupucdn.com
+hurbai.com
 hurongclub.com
 hurun.net
 husenji.com
@@ -52387,6 +52394,7 @@ kameng98.com
 kamenwang.com
 kamidm.com
 kamidox.com
+kamokamogo.com
 kamopos.com
 kamwu.com
 kan.cc
@@ -66161,6 +66169,7 @@ pa1pa.com
 paahu.com
 paalermat.com
 paascloud.net
+paasmi.com
 paat.com
 pab-bfiles.pingan.com.cn.cdngtm.com
 pab-rmb.pingan.com.cn.cdngtm.com
@@ -75547,6 +75556,7 @@ sendbp.com
 sendcloud.net
 sendcloud.org
 sendong.com
+sendpioneer.com
 sends.cc
 senenwood.com
 senfengg.com
@@ -77835,6 +77845,7 @@ sjm.life
 sjmdh.com
 sjmeigao.com
 sjmmhhh.cn
+sjmwsw.com
 sjmxx.com
 sjono.com
 sjpcw.com
@@ -87236,6 +87247,7 @@ v.zuoyouyu.cn
 v0-client-lz.rili.cn
 v00087.com
 v007.net
+v0719.com
 v1-dwkvod.kwaicdn.com
 v1-feed.idreamsky.com
 v1-play.log.mgtv.com
@@ -89466,6 +89478,7 @@ was-expo.com
 wasair.com
 wasanfeng.com
 wasd.plus
+wasee.com
 wasfzx.com
 washpayer.com
 wasintek.com
@@ -96713,6 +96726,7 @@ xn--xhq9mt12cf5v.website
 xn--xhqp98ceybfxgfm8a96y.com
 xn--xkrs9ba41r.com
 xn--xkry73b.online
+xn--y8jhmm6gn.moe
 xn--ygtp21bwyedsq.com
 xn--yhqq38bmov17mqxi.com
 xn--zq2aw6m.xyz
@@ -97451,6 +97465,7 @@ xxthemes.com
 xxtiao.com
 xxtmail.com
 xxtswzedu.com
+xxue100.com
 xxw777.cn
 xxwenda.com
 xxwolo.com
@@ -104097,6 +104112,7 @@ yrcr7.com
 yrgu.com
 yrmpay.com
 yrom.net
+yrsm.net
 yruan.com
 yrucd.com
 yrw.cc
@@ -107849,6 +107865,7 @@ zkxlkj.net
 zkxww.com
 zkyai.com
 zkydib.com
+zkyl.vip
 zkyouxi.com
 zkyxls.com
 zkzhkj.com
