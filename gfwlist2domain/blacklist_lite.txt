@@ -9458,6 +9458,7 @@ js.org
 jsbridgestone.com
 jsdelivr.com
 jsdelivr.net
+jsfiddle.net
 jshell.net
 jstor.org
 jsz91.com
