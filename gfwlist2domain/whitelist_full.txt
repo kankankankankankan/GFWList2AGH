@@ -10959,7 +10959,6 @@ adnew.wifi8.com
 adnewnc.app.autohome.com.cn
 adnineplus.com
 adnyg.com
-adobe55.com
 adobeae.com
 adobedc.cn
 adobeedu.com
@@ -11361,7 +11360,6 @@ afzhan.com
 ag.qq.com
 ag17.wang
 ag365.com
-ag82527.com
 ag888.com
 agalwood.net
 agamepower.com
@@ -14338,6 +14336,7 @@ artbluesea.xyz
 artbookinchina.com
 artcg.design
 artcns.com
+artcto.com
 artddu.com
 artebuy.com
 artech-graphite.com
@@ -47965,6 +47964,7 @@ iplist2.netfree.com.cn
 iplist4.colaapp.cn
 iploc.market.alicloudapi.com
 iplocreptest.map.qq.com
+iplusmed.com
 ipm.atm.cp31.ott.cibntv.net
 ipm.atm.youku.com
 ipmatm.cp12.wasu.tv
@@ -50729,7 +50729,6 @@ jncgzl.com
 jncqj.com
 jncyx.com
 jndssd.com
-jnduck.com
 jndwyy.com
 jndxwl.com
 jnesc.com
@@ -57260,6 +57259,7 @@ ls666.com
 lsbankchina.com
 lsbchina.com
 lsbin.com
+lsbtly.com
 lsccb.com
 lsdkjfkdlsf.ydtykj.net
 lsfyw.net
@@ -72645,7 +72645,6 @@ recommend.union.39.net
 recordpharm.com
 recovery-transfer.com
 recoye.com
-recrocon.com
 recsys-crawl.4paradigm.com
 recuvachina.com
 recv-wd.gridsumdissector.com
@@ -80789,6 +80788,7 @@ syhccs.com
 syhhidc.com
 syhhkj.com
 syhospital.com
+syhzml.com
 syiae.com
 syimg.3dmgame.com
 syiptv.com
@@ -85997,6 +85997,7 @@ ui100day.com
 ui63.com
 ui879.com
 uibaba.com
+uibep.com
 uibim.com
 uibmm.com
 uibobo.com
@@ -87716,6 +87717,7 @@ veilytech.com
 veim.lrswl.com
 veinbase.com
 vej4hb.wx.fpoll.net
+vejianzhan.com
 veken.com
 velasx.com
 velep.com
@@ -97191,7 +97193,6 @@ xunlei.net
 xunleigang.com
 xunleige.com
 xunleige520.com
-xunleige88.com
 xunleimi.com
 xunleiyy.com
 xunlew.com
@@ -101875,7 +101876,6 @@ ybtvyun.com
 ybvip.com
 ybvv.com
 ybword.com
-ybxsgg.com
 ybxww.com
 ybyxw.com
 ybzhao.com
@@ -104284,7 +104284,6 @@ yubaike.com
 yubangweb.com
 yubb12.site
 yubeiwang.net
-yubnjy.com
 yubodata.com
 yubohr.com
 yuboinfo.com
@@ -107863,6 +107862,7 @@ zmirrordemo.com
 zmister.com
 zmjiudian.com
 zmjm.com
+zmkm8.com
 zmlearn.com
 zmmdn.com
 zmmoo.com
