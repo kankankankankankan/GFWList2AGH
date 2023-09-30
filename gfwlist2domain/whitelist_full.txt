@@ -25924,6 +25924,7 @@ crimoon.net
 crispstata.com
 crjfw.com
 crl-lb.apple.com.akadns.net
+crl.alphassl.com
 crl.apple.com
 crl.globalsign.net
 crl.kaspersky.com
@@ -38132,6 +38133,7 @@ global-jf.com
 global-scsl.com
 global-tractor.com
 global-trade-center.com
+global.prd.cdn.globalsign.com
 global.quickconnect.to
 global.reg.ntes53.netease.com
 global.search.xiaomi.net
