@@ -4739,6 +4739,7 @@
 4765.com
 476522.s2txipv6.cdntip.com
 4779.com
+477zw.com
 47819.com
 478e1b1a1d51656e1729a92752833128.safeframe.googlesyndication.com
 47940374bc1b4849bea28aff303d0b25-cn-beijing.alicloudapi.com
@@ -11731,7 +11732,6 @@ aimei39.com
 aimeicity.com
 aimeideni.com
 aimeike.tv
-aimeit.com
 aimikuajinggou.com
 aiminer.cc
 aimingtai.com
@@ -16146,7 +16146,6 @@ bbsds.com
 bbse03.com
 bbsg.club
 bbsheji.com
-bbshuwu.com
 bbsimg.maxjia.com
 bbsls.net
 bbsmax.com
@@ -17156,7 +17155,6 @@ bilibilihelper.com
 bilibilijj.com
 bilibilipay.com
 bilibilipcdn.xktmmosauzq.bilivideo.yfcdn.cn
-bilibilis0.one
 bilicdn1.com
 bilicdn2.com
 bilicdn3.com
@@ -37634,6 +37632,7 @@ getpricetag.com
 getquicker.net
 getsurfboard.com
 getteamyi.com
+getu.fun
 getui.com
 getui.net
 getui.vip
@@ -40955,7 +40954,6 @@ hb-green.com
 hb-hengda.com
 hb-ly.com
 hb-ws.com
-hb-wtw.com
 hb.gsxt.gov.cn
 hb.sina.com.cn
 hb.url.cn
@@ -57064,7 +57062,6 @@ loudi.baixing.com
 louding.com
 louge.ltd
 louislivi.com
-louisvv.com
 loukee.com
 loukky.com
 loulansheji.com
@@ -64742,7 +64739,6 @@ onceoa.com
 onche.net
 oncity.cc
 oncloud.store
-ondeals.net
 one-all.com
 one-console-adns-new.console.aliyun.com
 one-console-adns.console.aliyun.com
@@ -79232,7 +79228,6 @@ starfish.sys.tv.mi.com
 starfivetech.com
 stargame.com
 stargames.qtlcdn.com
-staridc.net
 starlakelab.com
 starlight-generator.com
 starlott.com
@@ -80915,7 +80910,6 @@ szcompare.com
 szcp.com
 szcsot.com
 szcssx.com
-szcsw.com
 szcua.org
 szcwdz.com
 szcy99.com
@@ -83114,7 +83108,6 @@ timecoo.com
 timedg.com
 timedoo.com
 timelog.moviebox.baofeng.com
-timenote.cc
 timeofdate.com
 timeoutbeijing.com
 timeoutcn.com
@@ -89378,7 +89371,6 @@ waynetechs.com
 wayos.com
 wayou.gallerycdn.azure.cn
 wayoulegal.com
-wayoutv.com
 wayoxi.com
 waytide.com
 waytit.com
