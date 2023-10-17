@@ -8130,7 +8130,6 @@
 83wk6hrh.v1d.szbdyd.com
 83wk6hyn.v1d.szbdyd.com
 83wl6gkg.v1d.szbdyd.com
-8403b1f.com
 841529.sched.s2.tdnsv5.com
 8421.com
 84399.com
@@ -9573,10 +9572,12 @@
 9fpuhui.com
 9fs.com
 9fzt.com
+9fzt.net
 9g.com
 9g8g.com
 9game.cn
 9go.mobi
+9gt.net
 9gty.net
 9ha214li.sched.sma.tdnsv5.com
 9hcom.com
@@ -15539,7 +15540,6 @@ bailiguangmang.com
 bailing88.com
 bailitech.com
 bailitop.com
-bailuche.com
 baima.com
 baimao-expo.com
 baimao.com
@@ -18953,6 +18953,7 @@ byte.online
 byte008.com
 byteacctimg.com
 byteactivity.com
+byteactivity12.com
 byteadverts.com
 bytecdn.cn
 bytecdn.com
@@ -21443,7 +21444,6 @@ chaolady.com
 chaolean.com
 chaolen.com
 chaolongbus.com
-chaomei.shop
 chaomi.cc
 chaonanrc.com
 chaonei.com
@@ -21860,6 +21860,8 @@ china-coc.org
 china-cold.com
 china-consulate.org
 china-core.com
+china-cpu.co
+china-cpu.com
 china-csdz.com
 china-csm.org
 china-d.com
@@ -29377,7 +29379,6 @@ diskdownload.synology.cn
 diskgenius.com
 dislytegame.com
 dismall.com
-disneybox.com
 disp-mazumv6tmp.ias.tencent-cloud.net
 disp-othevebeaconipv6tmp.ias.tencent-cloud.net
 disp-uggewishiv6tmp.ias.tencent-cloud.net
@@ -32475,7 +32476,6 @@ ecnudec.com
 eco.taobao.com
 ecoalchina.com
 ecocn.org
-ecoefh.com
 ecollision.shareinstall.com.cn
 ecom.snssdk.com
 ecombdapi.com
@@ -33412,7 +33412,6 @@ eq.10jqka.com.cn
 eq984.cn
 eqbyc.com
 eqding.com
-eqghuu.com
 eqh5.com
 eqidi.com
 eqie.com
@@ -39252,6 +39251,7 @@ gugudang.com
 gugulm.net
 guguread.com
 guguyu.com
+guguyuyin.com
 guguzhu.com
 guhai66.com
 guheshuyuan.com
@@ -39466,6 +39466,7 @@ gutianfood.com
 gutou.com
 guwan.com
 guweimin.com
+guwendao.net
 guwenxs.com
 guwu121.com
 guxunw.com
@@ -49935,7 +49936,6 @@ jinbaobeiqiming.com
 jinbaoidc.com
 jinbaonet.com
 jinbei.com
-jinbeixianlan.com
 jinbiaohui.com
 jinbifun.com
 jinbilianmeng.com
@@ -63351,6 +63351,7 @@ nihaobank.com
 nihaodd.com
 nihaotw.com
 nihaowang.com
+nihil.cc
 nihiliroom.xyz
 niiceda.com
 niiddm.com
@@ -64467,7 +64468,6 @@ oh100.com
 ohaotian.com
 ohipic.com
 ohoohh.com
-ohoyao.com
 ohqly.com
 ohtly.com
 ohtpc.com
@@ -68411,7 +68411,6 @@ pstxg.com
 psy-1.com
 psychcn.com
 psychspace.com
-psysh.com
 psytest.sspu.edu.cn
 psyzg.com
 psznh.com
@@ -80242,6 +80241,7 @@ supermobilev1.jomodns.com
 superpb.com
 superpowercn.com
 superqq.com
+supersharket.com
 superslide2.com
 supersocket.net
 superyd.com
@@ -80944,7 +80944,6 @@ szkingdom.com
 szkoa.com
 szlande.com
 szlangwei.com
-szlbfs.com
 szlbg.uae2grp.uc.cn
 szlbg2.uae2grp.uc.cn
 szlc9.com
@@ -81039,7 +81038,6 @@ szsmk.com
 szsnking.com
 szsolar.org
 szsq.net
-szssjg.com
 szssty.com
 szstsh.org
 szsunlaser.com
@@ -82122,6 +82120,7 @@ teazhishi.com
 tebaidu.com
 tebon.com.cn
 teboncapital.com
+tec73.com
 tecbbs.com
 tecenet.com
 tech-domain.com
