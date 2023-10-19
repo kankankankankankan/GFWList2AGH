@@ -8879,6 +8879,7 @@ airmate-china.com
 airmb.com
 airmobyte.com
 airnut.com
+airportcip.com
 airsavvi.com
 airspa.net
 airstar.com
@@ -9131,6 +9132,7 @@ alibabadesign.com
 alibabadns.com
 alibabadoctor.com
 alibabafapiao.com
+alibabafoundation.com
 alibabafuturehotel.com
 alibabagroup.com
 alibabaonline.com
@@ -9896,6 +9898,7 @@ apigwtencent.com
 apimkt.net
 apio.ink
 apispace.com
+apitd.net
 apiview.com
 apixj.xyz
 apizb.com
@@ -41872,6 +41875,7 @@ lua.ren
 luaninfo.com
 luanren.com
 luastudio.net
+luatos.com
 lubandata.com
 lubangd.com
 lubanjianye.com
@@ -43023,9 +43027,11 @@ mbazl.com
 mbb0760.com
 mbcloud.com
 mbgo.com
+mbian.com
 mbinary.xyz
 mbldbb.com
 mbokee.com
+mbsifu.com
 mbsky.com
 mbxt.net
 mc-ccpit.com
@@ -43701,6 +43707,7 @@ mico.io
 micrenzheng.com
 micro-bee.com
 micro-servs.com
+micro-x.net
 microad-cn.com
 microad-z.com
 microad.jp
@@ -50310,6 +50317,7 @@ qlbchina.com
 qlbg.net
 qlchat.com
 qldzj.com
+qlelectrons.com
 qlgpy.com
 qlidc.com
 qlivecdn.com
@@ -52618,6 +52626,7 @@ scichina.com
 scicn.net
 scidict.org
 sciencemeta.com
+sciengine.com
 scientrans.com
 scies.org
 scievent.com
@@ -56581,6 +56590,7 @@ swiftjava.com
 swiftlet.net
 swiftstar.net
 swijoy.com
+swirebev.com
 swisswalls.com
 switchxiazai.com
 switzerland-visacenter.com
@@ -59430,6 +59440,7 @@ trustmta.com
 trustocean.com
 trustsoc.com
 trustutn.org
+trvok.com
 trwba.com
 trwl.net
 tryenough.com
@@ -68073,6 +68084,7 @@ xxyhzd.com
 xxyo.com
 xxyw.com
 xxyxmdq.cn
+xxyy.co
 xxzdpf.com
 xxzfgjj.com
 xxzhushou.com
@@ -71951,6 +71963,7 @@ zbrushcn.com
 zbstatic1.com
 zbsybh.cn
 zbt.com
+zbt.net
 zbuhe.com
 zbusa.com
 zbwbbs.com
@@ -73246,6 +73259,7 @@ zhongxiangdichan.net
 zhongxiaole.net
 zhongxing123.com
 zhongxinwanka.com
+zhongxinwei.net
 zhongxues.com
 zhongxunrunda.com
 zhongxuntv.com
