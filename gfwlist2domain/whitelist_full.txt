@@ -6316,7 +6316,6 @@
 592sy.com
 592zn.com
 59313313.com
-593555b.com
 59370.com
 593950.p23.tc.cdntip.com
 593yx.com
@@ -12090,7 +12089,6 @@ aldtop.com
 aldwx.com
 aledeco-hk.com
 aleest.com
-alenshaw.com
 alert.autohome.com.cn
 alertover.com
 alertserver.ushaqi.com
@@ -15699,7 +15697,6 @@ bandenghui.com
 bandengw.com
 bandianli.com
 bandoristation.com
-bandubook.com
 banfd.com
 banfs.com
 banfubbs.com
@@ -20265,7 +20262,6 @@ cctv.mmstat.com
 cctv18.com
 cctv1zhibo.com
 cctv4g.com
-cctv886.com
 cctvcdn.net
 cctvcj.com
 cctvcnch5ca.v.wscdns.com
@@ -22882,6 +22878,7 @@ chuji8.com
 chuju750.com
 chujuan.net
 chukong-inc.com
+chukonggame.com
 chukou1.com
 chukuangren.com
 chule.cc
@@ -35176,7 +35173,6 @@ fgkj.cc
 fgo-teamup.com
 fgo.wiki
 fgowiki.com
-fgtymk.com
 fh1551.com
 fh21.com
 fh21static.com
@@ -40532,7 +40528,6 @@ hanyouwang.com
 hanyu-word-gif.cdn.bcebos.com
 hanyu.a.shifen.com
 hanyu.baidu.com
-hanyu.life
 hanyu.sogou.com
 hanyuan.baixing.com
 hanyucar.com
@@ -40842,6 +40837,7 @@ haoyongapp.com
 haoyouqian.com
 haoyouyinxiang.com
 haoyuanxiao.com
+haoyue.asia
 haoyun13.com
 haoyun56.com
 haoyunbb.com
@@ -53156,7 +53152,6 @@ kmipo.net
 kmlcl.com
 kmlhh.com
 kmmama.com
-kmmklo.com
 kmplayercn.com
 kmpxq.cn
 kmqsaq.com
@@ -53980,7 +53975,6 @@ ky-express.com
 ky.live
 ky0001.vip
 ky0048.cc
-ky010.vip
 ky01002.com
 ky01005.com
 ky01010.com
@@ -57531,7 +57525,6 @@ lvluowang.com
 lvlvlvyou.com
 lvmae.com
 lvmama.com
-lvmama.ink
 lvmifo.com
 lvmotou.com
 lvnengliang.com
@@ -60193,7 +60186,6 @@ miijqghk1.dtd999.com
 miinaa.com
 miinsurtech.com
 miit-icdc.org
-miitip.org
 mij.cc
 mijiadns.com
 mijian360.com
@@ -67789,6 +67781,7 @@ pmquanzi.com
 pmr66.com
 pms.mb.qq.com
 pmsg.115.com
+pmsmzyy.com
 pmsra.com
 pmt-origin-cn.battle.net
 pmtalk.club
@@ -68051,7 +68044,6 @@ pp.cn
 pp.myapp.com
 pp.myapp.com.sched.ssdv6.tdnsv6.com
 pp.xdplt.com
-pp00.com
 pp100.com
 pp130.com
 pp1o.com
@@ -74676,7 +74668,6 @@ scihubtw.tw
 sciimg.com
 sciirc.com
 scijuyi.com
-scikaiguan.com
 scimall.org
 scimao.com
 scimg.27admin.com
@@ -75590,7 +75581,6 @@ sf6-ecomcdn-tos.pstatp.com
 sf6-fe-tos.pglstatp-toutiao.com
 sf6-scmcdn-tos.pstatp.com
 sf6-ttcdn-tos.pstatp.com
-sf6710.com
 sf888.net
 sfacg.com
 sfaf.ksapisrv.com
@@ -76234,6 +76224,7 @@ shengwu01.com
 shengxiao.net
 shengxin.ren
 shengxinquan.net
+shengyan985.com
 shengyasd.com
 shengyeji.com
 shengyidi.com
@@ -76896,7 +76887,6 @@ shskapp.com
 shskin.com
 shsnjj.top
 shsot.com
-shspark.com
 shssp.org
 shsxjy.com
 shsz.wagbridge.taobao.com.gds.alibabadns.com
@@ -77960,7 +77950,6 @@ smartdot.com
 smartedm.com
 smartemple.com
 smartermicro.com
-smartfactory-expo.com
 smartfarming.cn
 smartgaga.com
 smartgate.ywtbsupappw.sh.gov.cn
@@ -94219,7 +94208,6 @@ xa30zx.com
 xa3g.photo.store.qq.com
 xa71.cc
 xa9t.com
-xaahjy.com
 xabaiya.cn
 xabbp.com
 xabcdns.com
@@ -103319,7 +103307,6 @@ yongaomy.com
 yongche.name
 yongche.org
 yongchengren.com
-yongdatang.com
 yongfan99.com
 yonghe1999.com
 yonghe2008.com
@@ -104022,7 +104009,6 @@ yt.mmstat.com
 yt.mmstat.com.gds.alibabadns.com
 yt1.mmstat.com
 yt1998.com
-yt1a.icu
 yt2.mmstat.com
 yt211.com
 yt69.com
@@ -108612,7 +108598,6 @@ zyip.com
 zyjoygame.com
 zyjy.ink
 zyjyyun.com
-zyjz-sh.com
 zykjgame.com
 zyku.net
 zykxjt.com
@@ -108768,7 +108753,6 @@ zzqqhb.com
 zzqxs.com
 zzqzz.com
 zzrbl.com
-zzrcq.com
 zzrcz.com
 zzrseng.com
 zzsdtzb.com
