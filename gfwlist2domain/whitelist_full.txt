@@ -3311,7 +3311,6 @@
 2google.com
 2gua.gallerycdn.azure.cn
 2hainan.com
-2hanjutv.com
 2haohr.com
 2heng.xin
 2hua.com
@@ -6117,7 +6116,6 @@
 56mp.com
 56nnn.net
 56pan.com
-56php.com
 56qq.com
 56rrr.net
 56show.com
@@ -54344,6 +54342,7 @@ lanshenniao.com
 lanshiwan.cn
 lanshizi.com
 lanshou.net
+lansors.com
 lantian-hotel.com
 lantian.tv
 lanting123.com
@@ -55124,7 +55123,6 @@ lewang.ltd
 leweicn.com
 lewen.la
 lewen567.com
-lewen88.com
 lewenba.cc
 lewenn.com
 lewenxsw.com
@@ -56792,7 +56790,6 @@ loldytt.tv
 lolgo.net
 loli.cloud
 loli.ee
-loli.my
 loli.wiki
 loliloli.moe
 loliloli.net
@@ -61766,6 +61763,7 @@ multi-az-pay.kuaishoupay.com
 multi-ipv-api.gifshow.com
 multi-ipv-api.ksapisrv.com
 multi-region.kuaishou.com
+multilingual-volc.com
 multimedia.map.qq.com
 multiopen.cn
 multitv-im-conn.ptqy.gitv.tv
@@ -70726,6 +70724,7 @@ qooboo.com
 qoocc.com
 qooic.com
 qookar.com
+qookkagames.com
 qoqaoligei.com
 qoqkkhy.com
 qos.game.qq.com
@@ -80009,7 +80008,6 @@ sumrday.net
 sums.suning.com
 sumscope.com
 sumsz.com
-sumygg.com
 sumzc.com
 sun-ada.net
 sun-lion.com
@@ -86369,6 +86367,7 @@ uptougu.com
 upupbug.com
 upupfile.com
 upupoo.com
+upupview.com
 upupw.net
 upush.res.meizu.com
 upushv6.qidian.com
@@ -107109,6 +107108,7 @@ zihaixiaochengxu.com
 zihengfx.com
 zihexin.net
 zihu.com
+zihua.li
 zihua01.com
 zihuazhijia.com
 ziiai.com
