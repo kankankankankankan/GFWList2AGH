@@ -6703,7 +6703,6 @@
 61xiangce.com
 6213ad4d15f201e3414c21e7ef95fc03.dlied1.cdntips.net
 622639.shop.258.com
-623k.com
 62669.com
 626aaa.net
 626china.org
@@ -21945,7 +21944,6 @@ chinaagv.com
 chinaairer.com
 chinaamc.com
 chinaamuse.com
-chinaanonymous.com
 chinaartificialstone.com
 chinaasc.org
 chinaaseanenv.org
@@ -38818,7 +38816,6 @@ gs14.com
 gs1cn.org
 gs2.ww.prod.dl.playstation.net
 gs307.com
-gs3jro.xyz
 gsa.apple.com.akadns.net
 gsactivity.diditaxi.com.cn
 gsadds.com
@@ -40684,6 +40681,7 @@ haomm.com
 haommn.com
 haomove.com
 haomugua.com
+haomzl.com
 haonames.com
 haonic.com
 haonongzi.com
@@ -51734,7 +51732,6 @@ jxcsedu.com
 jxcua.com
 jxdcnc.com
 jxdiguo.com
-jxdkzz.net
 jxdown.com
 jxdyf.com
 jxedt.com
@@ -53910,6 +53907,7 @@ ky01005.com
 ky01010.com
 ky01013.com
 ky01020.com
+ky01022.com
 ky107.co
 ky151.co
 ky55005.com
@@ -62417,7 +62415,6 @@ nadvideo.baidu.com
 nadvideo2.a.glb3.com
 nadvideo2.baidu.com
 nadvideo2.baidu.com.a.bdydns.com
-nafanlong.com
 nagagame.net
 nagain.com
 nagcloudcs.com
@@ -88169,6 +88166,7 @@ vojs.cn
 vojs.tv
 vokop.com
 vol.moe
+volcanicengine.com
 volccdn.com
 volcdns.com
 volceapplog.com
@@ -93675,7 +93673,6 @@ www48-365365.com
 www5.djicdn.com
 www5.oss-cn-hangzhou.aliyuncs.com
 www6.ns1.name
-www8.hp.com
 www8.xitek.com
 www9.enet.com.cn
 www91.intel.cn
@@ -96377,6 +96374,7 @@ xn--xhq9mt12cf5v.shop
 xn--xhq9mt12cf5v.site
 xn--xhq9mt12cf5v.website
 xn--xhqp98ceybfxgfm8a96y.com
+xn--xhqq1kgvbk54a.com
 xn--xkrs9ba41r.com
 xn--xkry73b.online
 xn--y8jhmm6gn.moe
@@ -102463,6 +102461,7 @@ yinhangkaoshi.net
 yinhanglilv.net
 yinhangzhaopin.com
 yinhe.com
+yinhecn.com
 yinhengli.com
 yinher.com
 yinheyuedu.com
