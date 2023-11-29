@@ -11272,6 +11272,7 @@ affiliate.a4dtracker.com
 affu.net
 afgame.com
 afie.xin
+afirstsoft.com
 afjk.com
 afjob88.com
 afm.pipi.cn
@@ -21216,7 +21217,6 @@ ch999.com
 ch999img.com
 cha-tm.com
 cha.17173.com
-cha001.com
 cha127.com
 cha138.com
 chabeichong.com
@@ -36699,7 +36699,6 @@ gaclib.net
 gacmotor.com
 gacsofinco.com
 gad.netease.com
-gadscc.xyz
 gaea.meituan.com
 gaeadata.com
 gaeamobile.net
@@ -43412,7 +43411,6 @@ htmlplusplus.com
 htmlsucai.com
 htms.heytapmobi.com
 htnice.com
-htobl.com
 hton.ren
 htoo.vip
 htouhui.com
@@ -46980,7 +46978,6 @@ imgad0.3conline.com
 imgad0.pcauto.com.cn
 imgad0.pconline.com.cn
 imgadpai.thepaper.cn
-imgads.xyz
 imgadsame.liba.com
 imgaliyun.da.mgtv.com
 imgaliyun.res.mgtv.com
@@ -47011,7 +47008,6 @@ imgconvert.csdnimg.cn
 imgcps.jd.com
 imgdb.cn
 imgdd-sched.jcloud-cdn.com
-imgds.xyz
 imgeek.org
 imgets.com
 imgf.gamersky.com
@@ -58615,7 +58611,6 @@ mangzitian.com
 manhua.acimg.cn
 manhua.dmzj.com
 manhua1.com
-manhua101.com
 manhua166.com
 manhua188.com
 manhua365.com
@@ -70043,6 +70038,7 @@ qiguo.com
 qiguoguo.net
 qiguoread.com
 qih.cc
+qihaoaoban.com
 qihaoip.com
 qihaxiaoshuo.com
 qihehuo.cn
@@ -75329,7 +75325,6 @@ seopre.com
 seoshenzhen.com
 seosiguan.com
 seosn.com
-seosrx.net
 seotcs.com
 seowhy.com
 seoxiaosai.com
@@ -82247,6 +82242,7 @@ tenmh.com
 tennisworld.mobi
 tennoo.com
 tenorshare.com
+tenorshare.tw
 tenpay.com
 tenqent.com
 tensafe.com
@@ -84280,7 +84276,6 @@ tschewang.com
 tscmjt.com
 tsddu.com
 tsdflsdk.cypcb.net
-tsdm.net
 tsdxb.com
 tsfucai.com
 tsg-online.net
@@ -93838,7 +93833,6 @@ wxsign.nie.netease.com
 wxsk.sandpay.com.cn
 wxsk.sandpay.com.cn.cdn30.com
 wxskqy.cn
-wxsky.net
 wxsnsad.tc.qq.com
 wxsnsdy.tc.qq.com
 wxsnsdy.video.qq.com
