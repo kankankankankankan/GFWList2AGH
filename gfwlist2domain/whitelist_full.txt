@@ -19524,7 +19524,6 @@ clamc.com
 clamptek.com
 clanzx.net
 claritywallpaper.com
-clashroyaleapp.com
 classa-z.com
 classcms.com
 classinpaas.com
@@ -64909,6 +64908,8 @@ qw5599.com
 qwbk.cc
 qweather.com
 qweather.net
+qwen.ai
+qwenlm.ai
 qwerhost.com
 qwfync.com
 qwgg.com
