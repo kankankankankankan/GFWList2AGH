@@ -880,6 +880,7 @@ adcommerce.tv
 addictedtocoffee.de
 addison-wesley.ch
 addison.ac.uk
+addons.mozilla.org
 addthis.com
 addthiscdn.com
 addthisedge.com
@@ -4200,6 +4201,7 @@ blog.expofutures.com
 blog.fizzik.com
 blog.foolsmountain.com
 blog.fuckgfw233.org
+blog.goo.ne.jp
 blog.google
 blog.istef.info
 blog.jackjia.com
@@ -5160,6 +5162,7 @@ brni.com
 broadbandreports.com
 broadbook.com
 broadcast.co.nz
+broadcom.com
 broadpressinc.com
 broadstairscollege.ac.uk
 brocaproject.com
@@ -13173,6 +13176,7 @@ hcri.ac.uk
 hct.ac.uk
 hcuc.ac.uk
 hd-tubes.com
+hd.stheadline.com
 hd1999.top
 hdabla.net
 hdb1.app
@@ -13788,6 +13792,7 @@ home-sex-tapes.com
 home-song.com
 home.saxo
 home.sina.com
+home.so-net.net.tw
 homealonemilfs.com
 homebrew.bintray.com
 homedepot-static.com
@@ -14881,6 +14886,7 @@ imessage.tv
 imet.ac.uk
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
+img.dlsite.jp
 img.ly
 imgasd.com
 imgbb.com
@@ -17192,6 +17198,7 @@ listentoyoutube.com
 listerpostgraduate.ac.uk
 listinganalytics.net
 listorious.com
+lists.w3.org
 litbus-anime.com
 litenews.hk
 literatumonline.com
@@ -19377,6 +19384,8 @@ msgamesresearch.com
 msguancha.com
 msha.gov
 mshome.net
+msi.cn
+msi.com
 msidentity.com
 msinnovationchallenge.com
 msk.ilnk.info
@@ -19510,6 +19519,7 @@ my-magazine.me
 my-private-network.co.uk
 my-proxy.com
 my.mail.ru
+my.opera.com
 my.pcloud.com
 my.weibo.com
 my03.com
@@ -20249,6 +20259,7 @@ news.com.au
 news.ebc.net.tw
 news.msn.com.tw
 news.mt.co.kr
+news.nationalgeographic.com
 news.net.au
 news.omy.sg
 news.seehua.com
@@ -24454,6 +24465,7 @@ s2csntp.miz.nao.ac.jp
 s2stagehance.com
 s3-ap-southeast-1.amazonaws.com
 s3-ap-southeast-2.amazonaws.com
+s3.amazonaws.com
 s3.eu-central-1.amazonaws.com
 s4miniarchive.com
 s81c.com
@@ -25598,6 +25610,7 @@ sinapse.ac.uk
 sinchew.com.my
 sinchew.my
 sinet.ac.uk
+sing-box.app
 sing-box.sagernet.org
 sing4.lat
 sing68.com
@@ -28614,6 +28627,7 @@ twilog.org
 twimbow.com
 twimg.co
 twimg.com
+twimg.edgesuite.net
 twimg.org
 twin-research.ac.uk
 twindexx.com
@@ -31206,13 +31220,16 @@ www.ajsands.com
 www.anix.moe
 www.antd.org
 www.aolnews.com
+www.businessinsider.com.au
 www.cmoinc.org
+www.dmm.com
 www.dwheeler.com
 www.eastturkistan.net
 www.gmiddle.com
 www.gmiddle.net
 www.hustlercash.com
 www.idlcoyote.com
+www.imdb.com
 www.kindleren.com
 www.klip.me
 www.lamenhu.com
@@ -31223,13 +31240,16 @@ www.m-sport.co.uk
 www.monlamit.org
 www.moztw.org
 www.msn.com
+www.nbc.com
 www.orchidbbs.com
 www.owind.com
 www.oxid.it
 www.powerpointninja.com
 www.s4miniarchive.com
 www.sb
+www.sciencemag.org
 www.shadowsocks.com
+www.skype.com
 www.tablesgenerator.com
 www.taiwanonline.cc
 www.taup.org.tw
@@ -31418,7 +31438,6 @@ xiaogirls.com
 xiaohexie.com
 xiaolan.me
 xiaoma.org
-xiaomi.eu
 xiaoou.io
 xiaoou.tv
 xiaoshuobb.life
@@ -32593,6 +32612,7 @@ zgzcjj.net
 zh-hans.cfsh99.com
 zh.ecdm.wikia.com
 zh.pokerstrategy.com
+zh.pttpedia.wikia.com
 zh.uncyclopedia.wikia.com
 zh.wikiquote.org
 zh99.net
