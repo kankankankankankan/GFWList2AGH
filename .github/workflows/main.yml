@@ -36,7 +36,7 @@ jobs:
             # 5️⃣ 提交结果
             - name: Push result
               run: |
-                  curl -s "https://raw.githubusercontent.com/kankankankankan/Toolkit/main/Git.sh" > /tmp/Git.sh
+                  curl -s "https://raw.githubusercontent.com/kankankankankankan/Toolkit/main/Git.sh" > /tmp/Git.sh
                   bash /tmp/Git.sh \
                       -u "kankankankankan" \
                       -e "king@hotmail.com" \
