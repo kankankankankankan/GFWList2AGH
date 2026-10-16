@@ -5765,6 +5765,7 @@ bsappapi.cc
 bsappapi.com
 bsaw.ac.uk
 bsbec.ac.uk
+bscdnweb.com
 bsdc.ac.uk
 bsersd.xyz
 bsfc.ac.uk
@@ -27734,6 +27735,7 @@ scct.ac.uk
 scdaily.com
 scde.ac.uk
 scdn.co
+scea.com
 scene7.com
 scenesource.me
 scentro.ac.uk
@@ -28878,6 +28880,7 @@ skysportsonline.com
 skysportsracing.com
 skytigris.cn
 skyvegas.com
+skyxvpn.com
 sl-reverse.com
 sl99mod.buzz
 slack-core.com
@@ -29215,6 +29218,7 @@ sony.com.ni
 sony.com.pa
 sony.com.pe
 sony.com.ph
+sony.com.py
 sony.com.sg
 sony.com.sv
 sony.com.tr
@@ -29257,8 +29261,10 @@ sonyclassics.com
 sonydesign.com
 sonydna.com
 sonyglobalsolutions.jp
+sonyinteractive.com
 sonykigyo.jp
 sonylatvija.com
+sonymusic.com.hk
 sonynetwork.co.jp
 sonypcl.jp
 sonypictures.com
